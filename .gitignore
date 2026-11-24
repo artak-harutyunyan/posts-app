@@ -1,0 +1,17 @@
+uploads/*
+!uploads/.gitkeep
+
+.DS_Store
+Thumbs.db
+
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+.env
+includes/db.local.php
+
+vendor/
