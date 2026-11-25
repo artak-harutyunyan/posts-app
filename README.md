@@ -86,6 +86,3 @@ UPDATE users SET role = 'admin' WHERE username = 'your_username';
 - Output is escaped with `htmlspecialchars`.
 - Uploaded files are checked by their real MIME type, renamed to random names, and size-limited.
 
-## Author
-
-Your Name — [GitHub profile](https://github.com/<your-username>)
